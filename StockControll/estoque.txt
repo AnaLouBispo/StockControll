@@ -1,0 +1,15 @@
+bb
+45
+aa
+45.0
+5
+bacate
+4
+verde:(
+2.0
+1
+teste
+1
+teste
+45.0
+4
